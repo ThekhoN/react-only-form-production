@@ -1,0 +1,8 @@
+
+goldLoan
+
+pockets
+
+savingsAccount
+
+creditCard

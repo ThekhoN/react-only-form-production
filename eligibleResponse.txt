@@ -1,0 +1,13 @@
+#IF NOT ELIGIBLE:
+
+
+"Thank you for your interest in ICICI Bank Credit Cards. 
+We regret to inform you that as per our current policies, we are unable to offer you a card at this time."
+
+
+#IF ELIGIBLE:
+
+"Congratulations
+
+You are eligible for an ICICI Bank Credit Card. 
+Our representative will get in touch with you shortly."
